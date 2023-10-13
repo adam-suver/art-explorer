@@ -1,5 +1,9 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+# Art Explorer
+
+## The Metropolitan Museum of Art API
+
+This project is intended to make exploring the artwork of the Met easier, customizable, and interactive.
+
+It is designed in MVC, and utilizes Java, Spring, and Jackson on the backend.
+
+More information will be added here later.
